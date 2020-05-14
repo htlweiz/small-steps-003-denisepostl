@@ -21,7 +21,7 @@ namespace SmallSteps003
 
             Console.WriteLine("Der Rechenking sagt {0} + {1} = {2}", a, b, result_addition);
             Console.WriteLine("Der Rechenking sagt {0} - {1} = {2}", a, b, result_substraction);
-            Console.WriteLine("Der Rechenking sagt {0} * {1} = {2}", a, b, result_subtraction);
+            Console.WriteLine("Der Rechenking sagt {0} * {1} = {2}", a, b, result_substraction);
             Console.WriteLine("Der Rechenking sagt {0} / {1} = {2}", a, b, result_division);
         }
     }
